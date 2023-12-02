@@ -1,6 +1,6 @@
 # Diabetes-Prediction
 
-This project aims to predict whether a person has diabetes or not based on various features such as age, gender, blood pressure, body mass index, etc. The dataset used for this project is from [Kaggle], which contains 768 records of female patients from the Pima Indian tribe. The dataset has 8 input features and 1 binary output variable.
+This project aims to predict whether a person has diabetes or not based on various features such as age, gender, blood pressure, body mass index, etc, using support vector machine (SVM) classifier. The dataset used for this project is from [Kaggle], which contains 768 records of female patients from the Pima Indian tribe. The dataset has 8 input features and 1 binary output variable.
 
 
 ## Installation and Usage
@@ -30,7 +30,7 @@ To run the project, you can use the following command:
 
 ## Results
 
-The support vector mavchine (SVM) model achieved an accuracy of 78%, a precision of 0.76, a recall of 0.53, and an F1-score of 0.63 on the test set. 
+The support vector machine (SVM) model achieved an accuracy of 78%, a precision of 0.76, a recall of 0.53, and an F1-score of 0.63 on the test set. 
 
 ## Contributions
 
