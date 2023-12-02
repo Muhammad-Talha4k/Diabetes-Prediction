@@ -1,4 +1,4 @@
-# Diabetes-Prediction
+# Diabetes Prediction using SVM Classifier
 
 This project aims to predict whether a person has diabetes or not based on various features such as age, gender, blood pressure, body mass index, etc, using support vector machine (SVM) classifier. The dataset used for this project is from [Kaggle], which contains 768 records of female patients from the Pima Indian tribe. The dataset has 8 input features and 1 binary output variable.
 
